@@ -121,6 +121,8 @@
             <langUsage>
                 <language ident="bg" xml:lang="bg">български</language>
                 <language ident="bg" xml:lang="en">Bulgarian</language>
+			    <language ident="en" xml:lang="bg">английски</language>
+                <language ident="en" xml:lang="en">English</language>
             </langUsage>
         </profileDesc>
         <revisionDesc xml:lang="en"><change when="2025-12-01">
