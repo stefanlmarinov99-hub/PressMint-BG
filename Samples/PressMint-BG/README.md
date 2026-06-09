@@ -16,7 +16,7 @@ The source of the PressMint-BG corpus will be digitized historical newspapers pu
 
 * __Structure__: The corpus is structured into issues and pages.
 
-* __Correction__: The OCR-ed texts contain errors and need followings corrections.
+* __Correction__: The OCR-ed texts contain errors and need following corrections.
 
 * __Linguistic annotation__: The texts can be linguistically annotated using modern processing pipelines with good precision after several preprocessing steps, including data cleaning.
 
