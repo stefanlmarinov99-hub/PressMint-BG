@@ -2,36 +2,40 @@
 
 ## Data source
 
-The source of the PressMint-BG corpus will be ...
+The source of the PressMint-BG corpus will be digitized historical newspapers published on Bulgarian from 1859 to 1944 from the collection of National Library in Plovdiv.
 
 ### Details of the source:
 
-* __Source__: 
+* __Source__: The paper issues have been scanned and OCR-ed with ABBYY FineReader.
 
-* __Availability__: 
+* __Availability__: The issues are available at https://digital.libplovdiv.com/bg/v/periodicals
 
-* __Content__: 
+* __Content__: Newspapers, published on Bulgarian from 1859 to 1944.
 
-* __Size__: 
+* __Size__: 309 periodical editions and about 150 000 pages.
 
-* __Structure__: 
+* __Structure__: The corpus is structured into issues and pages.
 
-* __Correction__: 
+* __Correction__: The OCR-ed texts contain errors and need followings corrections.
 
-* __Linguistic annotation__: 
+* __Linguistic annotation__: The texts can be linguistically annotated using modern processing pipelines with good precision after several preprocessing steps, including data cleaning.
 
 * __Metadata__:
-
-    The texts in the corpus have the following metadata:
-
-    - Document ID 
-    - ...
+    Each issue contains:
+    - Signature
+    - Kind
+    - Name
+    - Subtitle
+    - Publishing place
+    - Publishing year
+    - Language
+    - Periodicity
+    - Issue number     
     
-* __Format__: 
+* __Format__: The OCR-ed text is available in searchable PDF.
 
-* __Facsimile__:
+* __Facsimile__: The image files for complete texts are available as PDFs.
 
 ## Conversion plan
 
-For the PressMint-BG corpus we plan to:
-
+For the PressMint-BG corpus we plan to automatically clean and annotate the data and prepare it in PressMint format, retaining the available metadata. We do not plan to introduce new metadata.
