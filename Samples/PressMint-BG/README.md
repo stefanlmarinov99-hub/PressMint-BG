@@ -38,4 +38,4 @@ The source of the PressMint-BG corpus will be digitized historical newspapers pu
 
 ## Conversion plan
 
-For the PressMint-BG corpus we plan to automatically clean and annotate the data and prepare it in PressMint format, retaining the available metadata. We do not plan to introduce new metadata.
+For the PressMint-BG corpus we plan to automatically clean and annotate the data and convert it to the PressMint TEI schema while retaining the available metadata. We do not plan to introduce new metadata.
