@@ -4,7 +4,7 @@
 ## Data source
 
 
-The source of the PressMint-BG corpus will be digitized historical newspapers published in Bulgarian from 1859 to 1944 from the collection of the National Library in Plovdiv.
+The source of the PressMint-BG corpus will be digitized historical newspapers published in Bulgarian from 1879 to 1944 from the collection of the National Library in Plovdiv.
 
 
 ### Details of the source:
