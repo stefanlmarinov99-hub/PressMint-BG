@@ -16,7 +16,7 @@ The source of the PressMint-BG corpus will be digitized historical newspapers pu
 * __Availability__: The issues are available at https://digital.libplovdiv.com/bg/v/periodicals
 
 
-* __Content__: Newspapers, published in Bulgarian from 1859 to 1944.
+* __Content__: Newspapers, published in Bulgarian from 1879 to 1944.
 
 
 * __Size__: 309 periodical editions and about 150 000 pages.
