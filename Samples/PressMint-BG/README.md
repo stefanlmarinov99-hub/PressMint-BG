@@ -10,7 +10,7 @@ The source of the PressMint-BG corpus will be digitized historical newspapers pu
 ### Details of the source:
 
 
-* __Source__: The paper issues have been scanned and OCR-ed with ABBYY FineReader.
+* __Source__: The paper issues have been scanned and OCR-ed with ABBYY FineReader. ABBYY FineReader is trained for each publisher.
 
 
 * __Availability__: The issues are available at https://digital.libplovdiv.com/bg/v/periodicals
@@ -53,7 +53,3 @@ The source of the PressMint-BG corpus will be digitized historical newspapers pu
 
 
 For the PressMint-BG corpus we plan to automatically clean and annotate the data and convert it to the PressMint TEI schema while retaining the available metadata. We do not plan to introduce new metadata.
-
-
-
-
