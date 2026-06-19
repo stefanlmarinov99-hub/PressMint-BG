@@ -5,8 +5,6 @@
             <titleStmt>
                 <title xml:lang="bg">Исторически корпус на български вестници PressMint-BG [PressMint]</title>
                 <title xml:lang="en">Bulgarian historical newspaper corpus PressMint-BG [PressMint]</title>
-                <title type="sub" xml:lang="bg">Исторически вестници (1878 - 1950)</title>
-                <title type="sub" xml:lang="en">Historical Newspapers (1878 - 1950)</title>
                 <respStmt>
                     <persName ref="https://orcid.org/0000-0002-4484-5027" xml:lang="bg">Петя Осенова</persName>
                     <persName ref="https://orcid.org/0000-0002-4484-5027" xml:lang="en">Petya Osenova</persName>
