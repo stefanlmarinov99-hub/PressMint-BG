@@ -103,13 +103,9 @@
                     <tagUsage gi="kinesic" occurs="11436"></tagUsage>
                     <tagUsage gi="seg" occurs="727563"></tagUsage>
                     <tagUsage gi="text" occurs="717"></tagUsage>
-                    <tagUsage gi="u" occurs="147432"></tagUsage>
                     <tagUsage gi="vocal" occurs="21823"></tagUsage>
                 </namespace>
-            </tagsDecl><classDecl>
-                <taxonomy xml:id="press.newspaperType"><desc xml:lang="en">Newspaper Types</desc><desc xml:lang="bg">Видове вестници</desc>
-                    <category xml:id="press.partyNewspaper"><desc xml:lang="en">Party Newspaper</desc><desc xml:lang="bg">Орган на партия</desc></category>
-                </taxonomy></classDecl>
+            </tagsDecl>
         </encodingDesc>
         <profileDesc>
             <settingDesc><setting>
