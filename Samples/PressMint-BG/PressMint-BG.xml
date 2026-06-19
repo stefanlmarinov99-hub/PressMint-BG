@@ -79,10 +79,10 @@
             </projectDesc>
             <editorialDecl>
                 <correction>
-                    <p xml:lang="en">No correction of source texts was performed.</p>
+                    <p xml:lang="en">The only intervention concerned the adjustment of the reading order. No other corrections of source texts were performed.</p>
                 </correction>
                 <normalization>
-                    <p xml:lang="en">Normalisation was performed only on the meta-data, e.g. person names.</p>
+                    <p xml:lang="en">Text has not been normalised.</p>
                 </normalization>
                 <hyphenation>
                     <p xml:lang="en">No end-of-line hyphens were present in the source.</p>
@@ -91,7 +91,7 @@
                     <p xml:lang="en">Quotation marks have been left in the text and are not explicitly marked up.</p>
                 </quotation>
                 <segmentation>
-                    <p xml:lang="en">The texts are segmented into utterances (speeches) and segments (corresponding to paragraphs in the source transcription).</p>
+                    <p xml:lang="en">The texts are split by page breaks, and then segmented into paragraphs.</p>
                 </segmentation>
             </editorialDecl>
             <tagsDecl>
