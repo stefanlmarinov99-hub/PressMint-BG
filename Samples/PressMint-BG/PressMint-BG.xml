@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<teiCorpus xml:id="PressMint-BG" xml:lang="bg" xmlns="http://www.tei-c.org/ns/1.0">
+<teiCorpus xml:id="PressMint-BG" xml:lang="bg"
+    xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -39,7 +40,7 @@
                     <orgName xml:lang="bg">Българска национална изследователска инфраструктура - CLaDA-BG</orgName>
                     <orgName xml:lang="en">Bulgarian National Research Infrastructure - CLaDA-BG</orgName>
                 </funder>
-                <funder>    
+                <funder>
                     <orgName xml:lang="bg">Изследователска инфраструктура CLARIN</orgName>
                     <orgName xml:lang="en">The CLARIN research infrastructure</orgName>
                 </funder>
@@ -48,17 +49,28 @@
                 <edition>1.0</edition>
             </editionStmt>
             <extent>
+                <measure unit="texts" quantity="23" xml:lang="en">23 texts</measure>
+                <measure unit="paragraphs" quantity="233" xml:lang="en">235 paragraphs</measure>
+                <measure unit="words" quantity="7788" xml:lang="en">7788 words</measure>
             </extent>
             <publicationStmt>
                 <publisher>
                     <orgName xml:lang="bg">Инфраструктурата КЛАРИН</orgName>
-                    <orgName xml:lang="en">The CLARIN research infrastructure</orgName><ref target="https://www.clarin.eu/">www.clarin.eu</ref></publisher>
-                <idno type="handle">http://hdl.handle.net/11356/1345</idno><pubPlace><ref target="http://hdl.handle.net/11356/1345">http://hdl.handle.net/11356/1345</ref></pubPlace>
-                <availability status="free"><licence>http://creativecommons.org/licenses/by/4.0/</licence>
+                    <orgName xml:lang="en">The CLARIN research infrastructure</orgName>
+                    <ref target="https://www.clarin.eu/">www.clarin.eu</ref>
+                </publisher>
+                <idno type="handle">http://hdl.handle.net/11356/1345</idno>
+                <pubPlace>
+                    <ref target="http://hdl.handle.net/11356/1345">http://hdl.handle.net/11356/1345</ref>
+                </pubPlace>
+                <availability status="free">
+                    <licence>http://creativecommons.org/licenses/by/4.0/</licence>
                     <p xml:lang="bg">Корпусът е достъпен чрез международния лиценз
- <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons</ref>.</p>
+                        <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons</ref>.
+                    </p>
                     <p xml:lang="en">This work is licensed under the
- <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref>.</p>
+                        <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref>.
+                    </p>
                 </availability>
                 <date when="2025-12-01"></date>
             </publicationStmt>
@@ -72,8 +84,10 @@
         </fileDesc>
         <encodingDesc>
             <projectDesc>
-                <p xml:lang="bg"><ref target="https://www.clarin.eu/pressmint">PressMint</ref> е проект, който цели: (1) създаване на многоезично множество от корпуси с исторически вестници с обща кодировка спрямо <ref target="https://clarin-eric.github.io/PressMint/">насоките за кодиране на PressMint</ref>; (2) добавяне на лингвистични анотации към корпусите; и (3) предоставянето на корпусите чрез конкорданси.</p>
-                <p xml:lang="en"><ref target="https://www.clarin.eu/pressmint">PressMint</ref> is a project that aims to (1) create a multilingual set of corpora of historical newspapers uniformly encoded according to the <ref target="https://clarin-eric.github.io/PressMint/">PressMint encoding guidelines</ref>; (2) add linguistic annotations to the corpora; and (3) make the corpora available through concordancers.</p>
+                <p xml:lang="bg">
+                    <ref target="https://www.clarin.eu/pressmint">PressMint</ref> е проект, който цели: (1) създаване на многоезично множество от корпуси с исторически вестници с обща кодировка спрямо <ref target="https://clarin-eric.github.io/PressMint/">насоките за кодиране на PressMint</ref>; (2) добавяне на лингвистични анотации към корпусите; и (3) предоставянето на корпусите чрез конкорданси.</p>
+                <p xml:lang="en">
+                    <ref target="https://www.clarin.eu/pressmint">PressMint</ref> is a project that aims to (1) create a multilingual set of corpora of historical newspapers uniformly encoded according to the <ref target="https://clarin-eric.github.io/PressMint/">PressMint encoding guidelines</ref>; (2) add linguistic annotations to the corpora; and (3) make the corpora available through concordancers.</p>
             </projectDesc>
             <editorialDecl>
                 <correction>
@@ -106,21 +120,25 @@
             </tagsDecl>
         </encodingDesc>
         <profileDesc>
-            <settingDesc><setting>
+            <settingDesc>
+                <setting>
                     <name type="address"></name>
                     <name type="city">Plovdiv</name>
-                    <name type="country">Bulgaria</name></setting>
+                    <name type="country">Bulgaria</name>
+                </setting>
             </settingDesc>
             <langUsage>
                 <language ident="bg" xml:lang="bg">български</language>
                 <language ident="bg" xml:lang="en">Bulgarian</language>
-			    <language ident="en" xml:lang="bg">английски</language>
+                <language ident="en" xml:lang="bg">английски</language>
                 <language ident="en" xml:lang="en">English</language>
             </langUsage>
         </profileDesc>
-        <revisionDesc xml:lang="en"><change when="2025-12-01">
+        <revisionDesc xml:lang="en">
+            <change when="2025-12-01">
                 <name>Petya Osenova</name>: the coordinator.</change>
         </revisionDesc>
     </teiHeader>
-    <xi:include href="1908/PressMint-BG_1908-06-14-6SEP.xml" xmlns:xi="http://www.w3.org/2001/XInclude"></xi:include>
+    <xi:include href="1908/PressMint-BG_1908-06-14-6SEP.xml"
+        xmlns:xi="http://www.w3.org/2001/XInclude"></xi:include>
 </teiCorpus>
