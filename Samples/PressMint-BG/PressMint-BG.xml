@@ -118,6 +118,9 @@
                     <tagUsage gi="vocal" occurs="21823"></tagUsage>
                 </namespace>
             </tagsDecl>
+            <classDecl>
+                <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="PressMint-taxonomy-OCR.xml"/>
+            </classDecl>
         </encodingDesc>
         <profileDesc>
             <settingDesc>
