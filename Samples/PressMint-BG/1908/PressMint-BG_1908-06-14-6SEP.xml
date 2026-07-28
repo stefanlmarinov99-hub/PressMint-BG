@@ -20,7 +20,7 @@
                     <licence>http://creativecommons.org/licenses/by/4.0/</licence>
                     <p xml:lang="en">This work is licensed under the #<ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref>. 
                     </p>
-                    <p xml:lang="bg">Тази работа е лицензирана съгласно #                        <ref target="https://creativecommons.org/licenses/by/4.0/">Международен лиценз Creative Commons Attribution 4.0</ref>. 
+                    <p xml:lang="bg">Тази работа е лицензирана съгласно #<ref target="https://creativecommons.org/licenses/by/4.0/">Международен лиценз Creative Commons Attribution 4.0</ref>. 
                     </p>
                 </availability>
             </publicationStmt>
@@ -38,16 +38,16 @@
     </teiHeader>
     <facsimile>
         <surface xml:id="PressMint-BG_1908-06-14-6SEP.page1">
-            <graphic url="https://digital.libplovdiv.com/asset/default/4be89ec3-bf24-4d9f-8620-68ce2cb846d4.pdf#page=1%22%20mimeType=%22application/pdf"></graphic>
+            <graphic url="https://digital.libplovdiv.com/asset/default/4be89ec3-bf24-4d9f-8620-68ce2cb846d4.pdf#page=1"></graphic>
         </surface>
         <surface xml:id="PressMint-BG_1908-06-14-6SEP.page2">
-            <graphic url="https://digital.libplovdiv.com/asset/default/4be89ec3-bf24-4d9f-8620-68ce2cb846d4.pdf#page=2%22%20mimeType=%22application/pdf"></graphic>
+            <graphic url="https://digital.libplovdiv.com/asset/default/4be89ec3-bf24-4d9f-8620-68ce2cb846d4.pdf#page=2"></graphic>
         </surface>
         <surface xml:id="PressMint-BG_1908-06-14-6SEP.page3">
-            <graphic url="https://digital.libplovdiv.com/asset/default/4be89ec3-bf24-4d9f-8620-68ce2cb846d4.pdf#page=3%22%20mimeType=%22application/pdf"></graphic>
+            <graphic url="https://digital.libplovdiv.com/asset/default/4be89ec3-bf24-4d9f-8620-68ce2cb846d4.pdf#page=3"></graphic>
         </surface>
         <surface xml:id="PressMint-BG_1908-06-14-6SEP.page4">
-            <graphic url="https://digital.libplovdiv.com/asset/default/4be89ec3-bf24-4d9f-8620-68ce2cb846d4.pdf#page=4%22%20mimeType=%22application/pdf"></graphic>
+            <graphic url="https://digital.libplovdiv.com/asset/default/4be89ec3-bf24-4d9f-8620-68ce2cb846d4.pdf#page=4"></graphic>
         </surface>
     </facsimile>
     <text xml:lang="bg">
