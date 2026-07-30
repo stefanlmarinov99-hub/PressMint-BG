@@ -3,8 +3,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Исторически корпус на български вестници PressMint-BG, 6-й септември, 1908-05-16 [PressMint]</title>
-                <title xml:lang="en">Bulgarian historical newspaper corpus PressMint-BG, 6-й септември, 1908-05-16 [PressMint]</title>
+                <title>Исторически корпус на български вестници PressMint-BG, 6-й септемврий, 1908-05-16 [PressMint]</title>
+                <title xml:lang="en">Bulgarian historical newspaper corpus PressMint-BG, 6-й септемврий, 1908-05-16 [PressMint]</title>
             </titleStmt>
             <editionStmt>
                 <edition>1.0</edition>
@@ -23,7 +23,7 @@
             </publicationStmt>
             <sourceDesc>
                 <bibl>
-                    <title type="main">6-й септември</title>
+                    <title type="main">6-й септемврий</title>
                     <date when="1908-05-16">16.05.1908</date>
                     <biblScope unit="volume">1</biblScope>
                     <biblScope unit="issue">2</biblScope>
